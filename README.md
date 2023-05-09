@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/KK56ken/github-readme">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK56ken" />
 </a>
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KK56ken" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/KK56ken/)
+

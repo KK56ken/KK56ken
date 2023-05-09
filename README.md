@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KK56ken&show_icons=true&theme=radical)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,figma" />
+
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KK56ken&show_icons=true&theme=radical) -->
 
 <a href="https://github.com/KK56ken/github-readme">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK56ken&layout=compact&show_icons=true" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK56ken" />
 </a>
 <p align="left"> 

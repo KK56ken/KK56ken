@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 
 <p align="left"> 
-<!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki-lab&layout=compact&show_icons=true" /> -->
-  ![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=KK56ken&show_icons=true&theme=radical)
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tsuki-lab" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK56ken&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KK56ken" />
 </p>
 
 

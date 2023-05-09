@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KK56ken&show_icons=true&theme=radical) -->
 
 <a href="https://github.com/KK56ken/github-readme">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK56ken&layout=compact&show_icons=true" />
+<!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK56ken&layout=compact&show_icons=true" /> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK56ken" />
 </a>
 <p align="left"> 
